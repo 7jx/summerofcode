@@ -1,0 +1,5 @@
+public Size measure(View view, Size padding) {
+// do some measuring
+// account for padding
+return size + padding;
+	}
